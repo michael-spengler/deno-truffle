@@ -13,6 +13,6 @@ See [test.ts](https://github.com/michael-spengler/truffle/blob/master/test.ts) f
 ## Trigger Test Execution
 ```ts
 
-deno test test.ts
+deno test https://deno.land/x/truffle/test.ts
 
 ```
